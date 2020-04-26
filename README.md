@@ -13,3 +13,4 @@ I will do my best to make this TexturePack , thank you for being able to like it
 
 My homepage link on planet Minecraft:https://www.planetminecraft.com/member/aillotiky/
 # Download link: https://github.com/AilloTiky/Pure-Simplicity-TexturePack/releases
+PMC:https://www.planetminecraft.com/texture_pack/pure-simplicity-teturepack-128x128/
