@@ -1,14 +1,14 @@
 # Pure Simplicity TexturePack Introduction
 
-If you are bored with a variety of PVP TexturePacks, you may wish to try this simple and practical TexturePack, which is a 128x128 TexturePack based on Default. 
+If you are tired of various PVP TexturePacks, you may wish to try this simple and practical TexturePack, which is based on the Default 128x128 TexturePack.
 
-The simple appearance reveals the exquisite inside, which is also what I spent almost a year .
+The simple appearance reveals the exquisite interior, which is what I spent almost a year.
 
-TexturePack was created for myself, Of course I am happy to share it,I hope you can like it.
+TexturePack was created for myself, and of course I am very happy to share with you, I hope you like it.
 
-the current version of this TexturePack is 1.7.10。Although I know that version 1.7.10 is an older version than it is now, but this is just the beginning。And it will be gradually updated to a higher version in the future, and there are plans for 3D in the future.
+The minimum version of the TexturePack is 1.7.10. Although I know that version 1.7.10 is an older version and the current latest version is 1.13, this is just the beginning. And it will be gradually updated to a higher version. The future plan is to make it into 3d TexturePack
 
-I will do my best to make this TexturePack , thank you for being able to like it!
+I will try my best to make this TexturePack, thank you for loving it!
 
 
 My homepage link on planet Minecraft:https://www.planetminecraft.com/member/aillotiky/
