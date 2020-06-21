@@ -1,4 +1,4 @@
-# TexturePack Introduction
+# Pure Simplicity TexturePack Introduction
 
 If you are bored with a variety of PVP TexturePacks, you may wish to try this simple and practical TexturePack, which is a 128x128 TexturePack based on Default. 
 
